@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: restapi
+  session:
+    http:
+      cookie: true
+      header: true
