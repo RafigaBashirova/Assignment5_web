@@ -21,3 +21,4 @@
 [default-nioEventLoopGroup-1-3] INFO  e.a.m.s.impl.YahooFinanceServiceImpl - *** STOCK INDEXES:: "INTC", "BABA", "TSLA", "AIR.PA", "GOOGL", "YHOO"  ***
 [default-nioEventLoopGroup-1-3] INFO  y.quotes.query1v7.QuotesRequest - Sending request: https://query1.finance.yahoo.com/v7/finance/quote?symbols=INTC%2CBABA%2CTSLA%2CAIR.PA%2CGOOGL%2CYHOO
 [default-nioEventLoopGroup-1-3] INFO  e.a.m.s.impl.YahooFinanceServiceImpl - *** stock price ::{BABA=BABA: 238.1, AIR.PA=AIR.PA: 99.3, GOOGL=GOOGL: 2380.53, TSLA=TSLA: 700.55, INTC=INTC: 57.545, YHOO=YHOO: null} ***
+[main] INFO  io.micronaut.runtime.Micronaut - Startup completed in 2268ms. Server Running: http://localhost:8080
